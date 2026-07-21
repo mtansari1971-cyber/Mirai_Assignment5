@@ -67,6 +67,8 @@ This project was developed as the **Capstone Mini-Project** for the **MirAI Scho
 
 ##  Demo
 
+Demo Link:: https://drive.google.com/file/d/1rP-kC8OVBWbM4jz2dCZCmFbQfZNiMMeZ/view?usp=drive_link
+
 The application demonstrates:
 
 - AI story generation
