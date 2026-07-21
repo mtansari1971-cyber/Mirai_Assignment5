@@ -63,9 +63,9 @@ This project was developed as the **Capstone Mini-Project** for the **MirAI Scho
     "Look through the window"
   ]
 }
+---
 
-
-## 📸 Demo
+##  Demo
 
 The application demonstrates:
 
@@ -77,7 +77,7 @@ The application demonstrates:
 
 ---
 
-## 📚 Concepts Implemented
+##  Concepts Implemented
 
 - Stateful Streamlit Applications
 - Prompt Engineering
@@ -92,7 +92,7 @@ The application demonstrates:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohd Talib**
 
